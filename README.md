@@ -9,9 +9,14 @@
 
 ## 📷 صورة للمشروع
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8d3afe4-21f0-4b1c-89dd-8dfb141068c7" />
+
+
 
 ## 🌐 عرض مباشر
-[شوفي المشروع Live هنا](#) *(بعد ما تفعّلي GitHub Pages)*
+عرض المشروع live
+(https://rovanahmed23.github.io/html-css-project/)
+
 
 ## 📌 خطوات الاستخدام
 1. نزلي الملفات
